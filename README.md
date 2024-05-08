@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyanshusingh1409
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning  DSA ON PYTHON
+- 🌱 I’m currently learning  MACHINE LEARNIG 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
